@@ -1,3 +1,4 @@
+APScheduler==3.11.2
 arch==7.2.0
 astropy==6.1.7
 astropy-iers-data==0.2025.6.16.0.38.47
@@ -104,6 +105,7 @@ trio==0.30.0
 trio-websocket==0.12.2
 typing_extensions==4.13.2
 tzdata==2025.2
+tzlocal==5.3.1
 urllib3==2.4.0
 wcwidth==0.2.13
 webencodings==0.5.1
