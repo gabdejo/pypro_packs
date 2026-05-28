@@ -67,6 +67,7 @@ plotly==5.24.1
 polars==1.30.0
 prompt_toolkit==3.0.51
 psutil==7.0.0
+psycopg2==2.9.12
 pure_eval==0.2.3
 pybind11==2.13.6
 pycparser==2.22
