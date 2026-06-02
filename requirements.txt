@@ -68,6 +68,7 @@ polars==1.30.0
 prompt_toolkit==3.0.51
 psutil==7.0.0
 psycopg==3.3.4
+psycopg-binary==3.3.4
 psycopg2==2.9.12
 pure_eval==0.2.3
 pybind11==2.13.6
